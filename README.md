@@ -1,3 +1,3 @@
 # TBA
 
-Ce repo contient (détailler)
+Ce repo contient (à modifier)
